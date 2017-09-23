@@ -1,6 +1,6 @@
 x=int(raw_input("zenter number"))
 	if x%2==0:
-	print ("its even)
+	print ("its even number )
 	else:
-	print "odd"
+	print "odd number "
 
